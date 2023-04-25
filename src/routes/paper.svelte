@@ -1,0 +1,1 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 22"><defs><style>.cls-1{fill:#f5f5f4;}</style></defs><rect class="cls-1" x="16" y="36.63" width="32" height="22" transform="translate(48 58.63) rotate(-180)"/></svg>
