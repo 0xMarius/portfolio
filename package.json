@@ -38,6 +38,7 @@
 	"type": "module",
 	"dependencies": {
 		"animejs": "^3.2.1",
+		"iconify-icon": "^1.0.7",
 		"svelte-animated-headline": "^1.0.5",
 		"svelte-markdown": "^0.2.3",
 		"typewriter-effect": "^2.19.0"
